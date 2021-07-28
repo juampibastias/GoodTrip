@@ -1,0 +1,23 @@
+Header {
+    background-color: #2e64a1;
+    padding: 2em;
+
+}
+
+Header h1{
+    color: white;
+    font-size: 5em;
+    font-style: italic;
+    font-weight: 100em;
+    display: inline-block;
+    float:inline-start;
+    position:static;
+    bottom: 5em;
+    margin: 0em;
+}
+
+#logo {
+    margin-right: 1em;
+    padding-left:  1em;
+    float: inline-start;
+}
