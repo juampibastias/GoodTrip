@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/GoodTrip/static/css/main.db6c9d98.chunk.css",
+    "main.js": "/GoodTrip/static/js/main.fd01aeb2.chunk.js",
+    "main.js.map": "/GoodTrip/static/js/main.fd01aeb2.chunk.js.map",
+    "runtime-main.js": "/GoodTrip/static/js/runtime-main.77297d02.js",
+    "runtime-main.js.map": "/GoodTrip/static/js/runtime-main.77297d02.js.map",
+    "static/js/2.a109d838.chunk.js": "/GoodTrip/static/js/2.a109d838.chunk.js",
+    "static/js/2.a109d838.chunk.js.map": "/GoodTrip/static/js/2.a109d838.chunk.js.map",
+    "static/js/3.3ae25815.chunk.js": "/GoodTrip/static/js/3.3ae25815.chunk.js",
+    "static/js/3.3ae25815.chunk.js.map": "/GoodTrip/static/js/3.3ae25815.chunk.js.map",
+    "index.html": "/GoodTrip/index.html",
+    "static/css/main.db6c9d98.chunk.css.map": "/GoodTrip/static/css/main.db6c9d98.chunk.css.map",
+    "static/js/2.a109d838.chunk.js.LICENSE.txt": "/GoodTrip/static/js/2.a109d838.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.77297d02.js",
+    "static/js/2.a109d838.chunk.js",
+    "static/css/main.db6c9d98.chunk.css",
+    "static/js/main.fd01aeb2.chunk.js"
+  ]
+}
